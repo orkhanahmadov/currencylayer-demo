@@ -7,7 +7,6 @@ Copy `.env.example` to `.env` and set database credentials and `CURRENCYLAYER_AC
 Run following commands:
 
 * `composer install`
-* `php artisan key:generate`
 * `npm ci`
 * `npm run prod`
 
